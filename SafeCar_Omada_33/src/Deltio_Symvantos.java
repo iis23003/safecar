@@ -1,0 +1,5 @@
+public class Deltio_Symvantos {
+	public Ekthesi_Pragratognomwna _unnamed_Ekthesi_Pragratognomwna_;
+	public Epikoinwnia_me_asfalistikh_etairia _unnamed_Epikoinwnia_me_asfalistikh_etairia_;
+	public Epikoinwnia_Me_Asfalistikh _unnamed_Epikoinwnia_Me_Asfalistikh_;
+}

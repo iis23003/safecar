@@ -1,0 +1,12 @@
+public class Arxiki_Othoni {
+	public Othoni_Syndesis _unnamed_Othoni_Syndesis_;
+	public ypologismos_statistikwn _unnamed_ypologismos_statistikwn_;
+	public Anafora_Statistikwn _unnamed_Anafora_Statistikwn_;
+	public Ekthesi_Pragmatognomwna _unnamed_Ekthesi_Pragmatognomwna_;
+	public Asfalish_Neou_Pelati _unnamed_Asfalish_Neou_Pelati_;
+	public Ananewsh_Asfalisis_Pelati _unnamed_Ananewsh_Asfalisis_Pelati_;
+	public Akyrwsh_Asfalishs_Pelati _unnamed_Akyrwsh_Asfalishs_Pelati_;
+	public Diaxeirish_Pelatwn_Oxhmatwn _unnamed_Diaxeirish_Pelatwn_Oxhmatwn_;
+	public Epikoinwnia_me_asfalistikh_etairia _unnamed_Epikoinwnia_me_asfalistikh_etairia_;
+	public Periptwsh_Atyxhmatos _unnamed_Periptwsh_Atyxhmatos_;
+}

@@ -1,0 +1,4 @@
+public class Lista_Asfalisewn_Praktoriou {
+	public Epikoinwnia_me_asfalistikh_etairia _unnamed_Epikoinwnia_me_asfalistikh_etairia_;
+	public Parathiro_Epivevaiwshs _unnamed_Parathiro_Epivevaiwshs_;
+}
